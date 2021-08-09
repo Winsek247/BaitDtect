@@ -1,0 +1,2 @@
+# BaitDtect
+proyecto de informatica
